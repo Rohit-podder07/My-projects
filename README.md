@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rohit-podder07
+- 👀 I’m interested in machine learning,data science with python
+- 🌱 I’m currently learning website desinging
+- 📫 reach me by the email rohitpodder02@gmail.com
